@@ -1,0 +1,6 @@
+ID     | Command line                                                              | Date and time    | Action(s)      | Altered
+--------------------------------------------------------------------------------------------------------------------------------
+     4 | install /usr/sbin/semanage                                                | 2026-11-20 14:45 | Install        |    8  <
+     3 | install nginx libcap-ng-utils                                             | 2026-11-19 20:31 | Install        |    9 > 
+     2 | upgrade --refresh                                                         | 2026-11-19 20:27 | I, O, U        |  190 E<
+     1 |                                                                           | 2026-11-19 20:04 | Install        |  558 >E
